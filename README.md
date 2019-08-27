@@ -1,4 +1,4 @@
-# james-joyce_a-portrait-of-the-artist-as-a-young-man
+# A Portrait of the Artist as a Young Man by James Joyce
 Standard eBook Project to convert ePub to multiple e-reader formats
 
 
